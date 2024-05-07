@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Adrian_Test1.unity
+    guid: 8b36c5129e46cf24a9c4e9e098ac4dd0
+  - enabled: 0
     path: Assets/Scenes/Adrian_Test3.unity
     guid: cabf77406d71c4d49a597cf6db367848
   - enabled: 0
